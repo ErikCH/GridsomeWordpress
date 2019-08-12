@@ -1,0 +1,16 @@
+{
+  "name": "my-gridsome-site",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-filesystem": "^0.5.0",
+    "@gridsome/source-wordpress": "^0.3.0",
+    "@gridsome/transformer-remark": "^0.3.2",
+    "axios": "^0.19.0",
+    "gridsome": "^0.6.0"
+  }
+}
